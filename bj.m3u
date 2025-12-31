@@ -54,8 +54,22 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8?GuardEncType
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视",浙江卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eo6BokfP3WkB3SIXSrgvRBA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNP3w4GkbU9L7iRQ8H2vgzhF%2CEND
 
-#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视",湖南卫视
-http://39.134.13.35:6610/180000001001/00000001000000000007000000001242/index.m3u8?
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视",湖南卫视1
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
+
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视",湖南卫视4k
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308827/main.m3u8
+
+#EXTINF:-1,tvg-id="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" tvg-name="湖南卫视" group-title="卫视",湖南卫视3
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视",湖南卫视湖南卫视高清
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226162/1.m3u8
+
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视",湖南卫视65
+http://61.148.223.18:8888/newlive/live/hls/23/live.m3u8
+
+
 
 #EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视",吉林卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226533/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EicY_6znuOTlmMeE15TFEig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNNUZpDp9cPVsM_M_ftJRVM%2CEND
